@@ -1,19 +1,14 @@
-### Hi there, I'm Liam - aka [That Retarded Kid That Can Code][website] 👋
+### Hi there, I'm Liam - aka [A self-taught independant developer][links] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://youtu.be/xvFZjo5PgG0)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.youtube.com/channel/UC9NVP0vybwBp0BzTd1K9YuA)
 
 ## I'm a Kid, Retard, Developer, and Probably Autistic!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first decent project: [ImGuiBase]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play piano / code stuff
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+- 🥅 2022 Goals: Make more garbage repos
+- ⚡ Fun fact: I love to play piano / code stuff
 
 ### Connect with me:
 
