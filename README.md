@@ -47,8 +47,6 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC9NVP0vybwBp0BzTd1K9YuA?sub_confirmation=1)
 
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
